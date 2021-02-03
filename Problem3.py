@@ -2,7 +2,7 @@
 # What is the largest prime factor of the number 600851475143 ?
 
 # Comments Section:
-# - It was just based on the fact that if (A divibes B) that implies that (A <= sqrt(B)) 
+# - It was just based on the fact that (if A divibes B) that implies that (A <= sqrt(B)) 
 
 import math as m
 
