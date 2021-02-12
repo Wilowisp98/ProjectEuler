@@ -1,3 +1,8 @@
+# What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
+
+# Comments Section:
+# - Straight forward algorithm just using a cache
+
 fibonaccicache = { 1 : 1, 2 : 1 }
 
 def fibonacci(n):

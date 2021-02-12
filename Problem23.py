@@ -1,3 +1,8 @@
+# Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
+
+# Comments Section:
+# - Straight forward algorithm using that fact that 1+2+3+...+n-1+n = n*(n+1)/2
+
 def abundants():
     abundlist = []
     for i in range(1,28123):
